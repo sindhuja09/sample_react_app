@@ -1,0 +1,7 @@
+body{
+   background-color: #76c99d;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.todo {
+    border: 1px solid #fe22f6;
+}
